@@ -2,8 +2,8 @@
 Title: Про ХВОЩ
 */
 
-Просто про ХВОЩЪ
-================
+Просто ХВОЩЪ
+============
 
 У всех людей есть хвощ, просто некоторые этого стыдятся или тщательно скрывают. 
 Некоторые выставляют на всеобщее обозрение, правда не совсем понятно с какой целью, 
@@ -18,29 +18,36 @@ Title: Про ХВОЩ
 Самый последний хвощ (2015)
 --------------------
 
-[Мой робот](my-robot) (2015)
++ [Мой робот](/public/my-robot) (2015)
 
 Хвощ поновее
 ------------
 
-[Pcap/tcpdump analyser for bittorrent handshakes](/public/content/captorrents.c) (2013)
++ [Мой 3D принтер Rostock Max v2](/public/3d-printer) (2014)
++ [Звукоизолированный ящик для станка](/public/sound-box)
++ [Самодельный ЧПУ станок](/public/my-cnc-mill) (2013)
 
 Не очень старый хвощ
 --------------------
 
-[Pcap/tcpdump analyser for bittorrent handshakes](/public/content/captorrents.c) (2013)
++ [Махолеты в Канаде](/public/maholet2)
++ [Махолеты в Беларуси](/public/maholet1)
++ [Скрипки](/public/violins)
 
 Старый хвощ
 -----------
 
-[Nncron "secure password" decoder](/public/nncron-secpassword) (2010)
++ [Трактор](/public/traktor)
++ [Мотоблок](/public/motoblok)
 
 Ссылки на чужой хвощ
 --------------------
 
+Ниже привожу сслки на других любителей хвоща, которые мне нравятся.
 
-[Pcap/tcpdump analyser for bittorrent handshakes](/public/content/captorrents.c) (2013)
++ [Робот Loki](http://www.dshinsel.com/loki/)
 
-[Nncron "secure password" decoder](/public/nncron-secpassword) (2010)
-
-
+- - -
+<div class="footer">
+        &copy; 2015 Robotustra
+</div>
