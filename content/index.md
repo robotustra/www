@@ -48,6 +48,9 @@ Title: Про ХВОЩ
 + [Робот Loki](http://www.dshinsel.com/loki/)
 
 - - -
+
+![Alt text](/p1.jpg "Test image")
+
 <div class="footer">
         &copy; 2015 Robotustra
 </div>
