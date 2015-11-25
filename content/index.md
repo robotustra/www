@@ -18,7 +18,7 @@ Title: Про ХВОЩ
 Самый последний хвощ (2015)
 --------------------
 
-[Clean Google search (in Russian)](/public/clean-google-search) (2015)
+[Clean Google search (in Russian)](/my-robot) (2015)
 
 Хвощ поновее
 ------------
