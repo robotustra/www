@@ -1,0 +1,9 @@
+<SearchPlugin xmlns="http://www.mozilla.org/2006/browser/search/">
+<ShortName>Clean Google</ShortName>
+<Description>Google Clean Search</Description>
+<InputEncoding>UTF-8</InputEncoding>
+<Image width="16" height="16">data:image/x-icon;base64,AAABAAEAEBAQAAEABAAoAQAAFgAAACgAAAAQAAAAIAAAAAEABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABBREIAR0pIAExOTABcX10Ac3Z0AH+CgACUl5UAqayqALu+vADFyMYAztHPANXY1gDj5uQA7vHvAPz//QAAAAAAIiIiIiIiIiIiIiEAASIiIiIiKOyYMiIiIiGtIhCzIiIiINciImgSIiIibSAi2CIiIiIUh37jIiIiIiIQ7CIiIiIiIUfmIiIiIiIX5BpSIiIiIi5yJOIiIiIiLlIm4iIiIiIZYQzBIiIiIiB3zqUiIiIiIiAAACIiIiIiIiIiIiIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA</Image>
+<Url type="text/html" method="GET" template="https://www.google.com/search?safe=off&amp;hl=en&amp;gws_rd=cr&amp;gbv=1&amp;q={searchTerms}"/>
+<SearchForm>https://www.google.com/search?safe=off&amp;hl=en&amp;gws_rd=cr&amp;gbv=1</SearchForm> 
+</SearchPlugin>
+
