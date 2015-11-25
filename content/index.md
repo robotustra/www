@@ -49,7 +49,7 @@ Title: Про ХВОЩ
 
 - - -
 
-![Alt text](/p1.jpg "Test image")
+![Alt text](../p1.jpg "Test image")
 
 <div class="footer">
         &copy; 2015 Robotustra
