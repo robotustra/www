@@ -2,6 +2,8 @@
 Title: Про ХВОЩ
 */
 
+Просто про ХВОЩЪ
+================
 
 У всех людей есть хвощ, просто некоторые этого стыдятся или тщательно скрывают. 
 Некоторые выставляют на всеобщее обозрение, правда не совсем понятно с какой целью, 
@@ -13,14 +15,32 @@ Title: Про ХВОЩ
 Этот микросайтец посвящен моему хвощу, методам хвощения и вообще...
 
 
+Самый последний хвощ (2015)
+--------------------
 
 [Clean Google search (in Russian)](/public/clean-google-search) (2015)
+
+Хвощ поновее
+------------
+
+[Pcap/tcpdump analyser for bittorrent handshakes](/public/content/captorrents.c) (2013)
+
+Не очень старый хвощ
+--------------------
+
+[Pcap/tcpdump analyser for bittorrent handshakes](/public/content/captorrents.c) (2013)
+
+Старый хвощ
+-----------
+
+[Nncron "secure password" decoder](/public/nncron-secpassword) (2010)
+
+Ссылки на чужой хвощ
+--------------------
+
 
 [Pcap/tcpdump analyser for bittorrent handshakes](/public/content/captorrents.c) (2013)
 
 [Nncron "secure password" decoder](/public/nncron-secpassword) (2010)
 
-/*
-<a href="/putty.exe">putty.exe</a>, <a href="/pscp.exe">pscp.exe</a>, <a href="/nc.exe">nc.exe</a> (netcat), <a href="/radius.pdf">RADIUS manual</a>, <a href="/public/ascii_table.jpg">ASCII table</a>.
-*/
 
