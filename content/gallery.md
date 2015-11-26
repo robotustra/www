@@ -5,6 +5,6 @@ Title: Разное
 Разные фотки
 ============
 
-![Маска](http://mitm.mooo.com/glr/private/people/onick/maska1.jpg =320x)
+<img src="http://mitm.mooo.com/glr/private/people/onick/maska1.jpg" alt="Маска" width="300"/>
 
 \- End of page -
