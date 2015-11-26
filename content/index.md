@@ -7,54 +7,63 @@ Title: Про ХВОЩ
 
 У всех людей есть хвощ, просто некоторые этого стыдятся или тщательно скрывают. 
 Некоторые выставляют на всеобщее обозрение, правда не совсем понятно с какой целью, 
-но это и не важно.	
+но это и не важно.
+
+> Everyone has a hobby, but some people hide it from others thoroughly.
+Some of people shows it to everyone, but it's also not clear for what reason, and it doesn't really matter.	
 
 Я родился, и случилось так, что я занимаюсь хвощем давно, долго и с удовольствием, 
 чего и вам желаю.
 
+>I was born, and it's happend that I have many hobbies for a long time and do them with pleasure.
+And I wish you the same.
+
 Этот микросайтец посвящен моему хвощу, методам хвощения и вообще...
+
+>This micro site is dedicated to my hobbies, and to ways of doing hobbies and others...
 
 
 Самое новье (2015)
 ------------------
 
-+ [Мой робот (проект)](my-robot) (2015)
-+ [Катушка Тесла](tesla-coil)
++ [Мой робот (проект), My Robot (project)](my-robot) (2015)
++ [Катушка Тесла, Tesla Coil](tesla-coil)
 
 Новье
 -----
 
-+ [Мой 3D принтер Rostock Max v2](3d-printer) (2014)
-+ [Звукоизолированный ящик для станка](sound-box)
-+ [Самодельный ЧПУ станок](my-cnc-mill) (2013)
++ [Мой 3D принтер, Rostock Max v2, 3D printer](3d-printer) (2014)
++ [Звукоизолированный ящик для станка, Sound proof box](sound-box)
++ [Самодельный ЧПУ станок, My CNC mill](my-cnc-mill) (2013)
 
 Уже не новье
 ------------
 
-+ [Махолеты в Канаде](maholet3)
-+ [Махолеты в Беларуси, два](maholet2)
-+ [Махолеты в Беларуси, раз](maholet1)
-+ [Скрипки](violins)
++ [Махолеты в Канаде, Ornithopters in Canada](maholet3)
++ [Махолеты в Беларуси, два, Ornithopter 2](maholet2)
++ [Махолеты в Беларуси, раз, Ornithopter 1](maholet1)
++ [Скрипки, Violins](violins)
 
 Старье
 ------
 
-+ [Трактор](traktor)
-+ [Мотоблок](motoblok)
++ [Трактор, Tractor](traktor)
++ [Мотоблок, Small tractor](motoblok)
 
 
 Рандомный стафф
 ---------------
 
-+ [Дисер](http://mitm.mooo.com/~onick/diser/DISER.pdf)
-+ [Фотки](gallery)
++ [Дисер, My PhD thesis](http://mitm.mooo.com/~onick/diser/DISER.pdf)
++ [Фотки, Pictures](gallery)
++ [Мой ливжорнал, My Livejournal](http://maholet.livejournal.com)
 
 Ссылки на чужой хвощ
 --------------------
 
 Ниже привожу сслки на других любителей хвоща, которые мне нравятся.
 
-+ [Робот Loki](http://www.dshinsel.com/loki/)
++ [Робот Loki, The Robot Loki and his creator's site](http://www.dshinsel.com/loki/)
 
 - - -
 
