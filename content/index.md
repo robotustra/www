@@ -91,7 +91,7 @@ Theoretically the palm of robot has about 30 DOF, but not all of them will be in
 Я посчитал что, дерево более удобно в обработке чем пластик, да и стоит дешевле.
 
 >The base is made from usual wooden furinture pannels, of standard thickness.
-The wood is chipper than plastic and chipper.
+The wood is chipper than plastic and easier to process.
 
 ![База](http://i.imgur.com/Bd5Wybf.png)
 
