@@ -23,45 +23,47 @@ And I wish you the same.
 >This micro site is dedicated to my hobbies, and to ways of doing hobbies and others...
 
 
-Самое новье (2015)
-------------------
+Самое новье (2015), Recent
+--------------------------
 
 + [Мой робот (проект), My Robot (project)](my-robot) (2015)
 + [Катушка Тесла, Tesla Coil](tesla-coil)
 
-Новье
------
+Новье, Previous
+---------------
 
 + [Мой 3D принтер, Rostock Max v2, 3D printer](3d-printer) (2014)
 + [Звукоизолированный ящик для станка, Sound proof box](sound-box)
 + [Самодельный ЧПУ станок, My CNC mill](my-cnc-mill) (2013)
 
-Уже не новье
-------------
+Уже не новье, Older stuff
+-------------------------
 
 + [Махолеты в Канаде, Ornithopters in Canada](maholet3)
 + [Махолеты в Беларуси, два, Ornithopter 2](maholet2)
 + [Махолеты в Беларуси, раз, Ornithopter 1](maholet1)
 + [Скрипки, Violins](violins)
 
-Старье
-------
+Старье, Prevous life
+--------------------
 
 + [Трактор, Tractor](traktor)
 + [Мотоблок, Small tractor](motoblok)
 
 
-Рандомный стафф
----------------
+Рандомный стафф, My random stuff
+--------------------------------
 
 + [Дисер, My PhD thesis](http://mitm.mooo.com/~onick/diser/DISER.pdf)
 + [Фотки, Pictures](gallery)
 + [Мой ливжорнал, My Livejournal](http://maholet.livejournal.com)
 
-Ссылки на чужой хвощ
---------------------
+Ссылки на чужой хвощ, Links to other ppl' sites
+-----------------------------------------------
 
 Ниже привожу сслки на других любителей хвоща, которые мне нравятся.
+
+> These are links I like.
 
 + [Робот Loki, The Robot Loki and his creator's site](http://www.dshinsel.com/loki/)
 
