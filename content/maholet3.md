@@ -26,18 +26,3 @@ Title: Махолет 2
 
 ![Картинка](http://mitm.mooo.com/~onick/maholet2/kr1.jpg)
 ![Картинка](http://mitm.mooo.com/~onick/maholet2/kr2.jpg)
-
-[Испытания махолета (avi, 1.1Mb) ](http://mitm.mooo.com/~onick/maholet2/mf1.avi)
-[Испытания 2 (avi, 1.3Mb)](http://mitm.mooo.com/~onick/maholet2/mf2.avi)
-
-[Испытания 3 (avi, 10.5Mb)](http://mitm.mooo.com/~onick/maholet2/mtest99.avi)
-
-![Картинка](http://mitm.mooo.com/~onick/maholet2/telezhka1.jpg)
-![Картинка](http://mitm.mooo.com/~onick/maholet2/strekolet.png)
-
-
-
-
-
-
-
