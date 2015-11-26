@@ -19,5 +19,23 @@ Title: Махолет 1
 ![Картинка](http://mitm.mooo.com/~onick/maholet/r1.jpg)
 ![Картинка](http://mitm.mooo.com/~onick/maholet/r2.jpg)
 
-[Испытания планирующего полета (avi, 13Mb)](http://mitm.mooo.com/~onick/maholet/mvi_1033.avi)
+[Редуктор, превращающий вращательные движения в поступательные. (avi, 13Mb)](http://mitm.mooo.com/~onick/maholet/mvi_1033.avi)
+
+![Картинка](http://mitm.mooo.com/~onick/maholet/r6.jpg)
+![Картинка](http://mitm.mooo.com/~onick/maholet/r7.jpg)
+![Картинка](http://mitm.mooo.com/~onick/maholet/r8.jpg)
+![Картинка](http://mitm.mooo.com/~onick/maholet/r10.jpg)
+![Картинка](http://mitm.mooo.com/~onick/maholet/r11.jpg)
+![Картинка](http://mitm.mooo.com/~onick/maholet/r13.jpg)
+
+Моделирование крайних положений крыла.
+
+![Картинка](http://mitm.mooo.com/~onick/maholet/p1.jpg)
+![Картинка](http://mitm.mooo.com/~onick/maholet/p2.jpg)
+![Картинка](http://mitm.mooo.com/~onick/maholet/p3.jpg)
+
+![Картинка](http://mitm.mooo.com/~onick/maholet/k1.jpg)
+![Картинка](http://mitm.mooo.com/~onick/maholet/k2.jpg)
+![Картинка](http://mitm.mooo.com/~onick/maholet/k3.jpg)
+![Картинка](http://mitm.mooo.com/~onick/maholet/k4.jpg)
 
