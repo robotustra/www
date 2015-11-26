@@ -46,6 +46,7 @@ Title: Про ХВОЩ
 Рандомный стафф
 ---------------
 
++ [Дисер](http://mitm.mooo.com/~onick/diser/DISER.pdf)
 + [Фотки](gallery)
 
 Ссылки на чужой хвощ
