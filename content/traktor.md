@@ -21,12 +21,12 @@ car engine from "Moskwich" with 75 h.p.
 [Испытание трактора 2 (Test 2) (avi, 3.8Mb)](http://mitm.mooo.com/~onick/traktor/2.avi)
 
 <video width="320" height="240" controls>
-  <source src="http://mitm.mooo.com/~onick/traktor/1.avi" type="video/avi">
+  <source src="http://mitm.mooo.com/~onick/traktor/1.avi" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 
 <video width="320" height="240" controls>
-  <source src="http://mitm.mooo.com/~onick/traktor/2.avi" type="video/avi">
+  <source src="http://mitm.mooo.com/~onick/traktor/2.avi" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 
