@@ -115,3 +115,7 @@ can't get CNC mill woth such characteristics.
 В процессе эксплуатации был сделан ряд улучшений, о чем расскажу позже.
 
 >To be continued.
+
+Тестовый запил со старым шпинделем.
+
+<embed src="http://www.youtube.com/v/ce8CyPSkG3I" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="640" height="480"></embed>
