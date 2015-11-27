@@ -16,19 +16,22 @@ Title: Трактор
 > We had built this tractor from old one custom made frame and 
 car engine from "Moskwich" with 75 h.p.
 
+
+
+[![Tractor 1](http://img.youtube.com/vi/dfnYlQS3jgE/0.jpg)](http://www.youtube.com/watch?v=dfnYlQS3jgE "Пересеченная местность")
+
+[![Tractor 2](http://img.youtube.com/vi/eWfqfWONR98/0.jpg)](http://www.youtube.com/watch?v=eWfqfWONR98 "Ровная дорога")
+
+eWfqfWONR98
+
+Скачать
+>Download
+
 [Испытание трактора 1 (Test 1) (avi, 4.3Mb)](http://mitm.mooo.com/~onick/traktor/1.avi)
 
 [Испытание трактора 2 (Test 2) (avi, 3.8Mb)](http://mitm.mooo.com/~onick/traktor/2.avi)
 
-<video width="320" height="240" controls>
-  <source src="http://mitm.mooo.com/~onick/traktor/1.avi" type="video/mp4">
-Your browser does not support the video tag.
-</video>
 
-<video width="320" height="240" controls>
-  <source src="http://mitm.mooo.com/~onick/traktor/2.avi" type="video/mp4">
-Your browser does not support the video tag.
-</video>
 
 
 В дальнейшем трактор был усовершенствован и до сих пор используется на даче для
