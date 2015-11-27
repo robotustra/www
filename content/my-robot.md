@@ -107,9 +107,18 @@ With such construction all 4 wheels touch the ground.
 
 [![Base test](http://img.youtube.com/vi/CTTV3OHJAmU/0.jpg)](http://www.youtube.com/watch?v=CTTV3OHJAmU "Platform mechanics test")
 
+Этот редуктор я буду использовать в суставах робота.
+>This drive will be used in the robot's joints.
 
+[![Cycloidal drive test](http://img.youtube.com/vi/POSKD3lSD8E/0.jpg)](http://www.youtube.com/watch?v=POSKD3lSD8E "Harmonic-like drive")
 
+[![Калибровка и синхронное движение глаз робота](http://img.youtube.com/vi/om_hhY21Tbg/0.jpg)](http://www.youtube.com/watch?v=om_hhY21Tbg "Глаза робота")
 
+[![Предыдущая калибровка глаз робота](http://img.youtube.com/vi/ExeVTvKDxZs/0.jpg)](http://www.youtube.com/watch?v=ExeVTvKDxZs "Глазы")
+
+[![Хамелеон](http://img.youtube.com/vi/_HABjn7qLSY/0.jpg)](http://www.youtube.com/watch?v=_HABjn7qLSY "Глазы")
+
+[![Проверка механики](http://img.youtube.com/vi/Hld-6YdsHQY/0.jpg)](http://www.youtube.com/watch?v=Hld-6YdsHQY "Глазы еще")
 
 
 

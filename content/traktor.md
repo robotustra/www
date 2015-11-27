@@ -20,6 +20,12 @@ car engine from "Moskwich" with 75 h.p.
 
 [Испытание трактора 2 (Test 2) (avi, 3.8Mb)](http://mitm.mooo.com/~onick/traktor/2.avi)
 
+<video width="320" height="240" controls>
+  <source src="http://mitm.mooo.com/~onick/traktor/1.avi" type="video/avi">
+  <source src="http://mitm.mooo.com/~onick/traktor/2.avi" type="video/avi">
+Your browser does not support the video tag.
+</video>
+
 В дальнейшем трактор был усовершенствован и до сих пор используется на даче для
 пахоты.
 
