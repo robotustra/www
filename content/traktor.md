@@ -22,9 +22,14 @@ car engine from "Moskwich" with 75 h.p.
 
 <video width="320" height="240" controls>
   <source src="http://mitm.mooo.com/~onick/traktor/1.avi" type="video/avi">
+Your browser does not support the video tag.
+</video>
+
+<video width="320" height="240" controls>
   <source src="http://mitm.mooo.com/~onick/traktor/2.avi" type="video/avi">
 Your browser does not support the video tag.
 </video>
+
 
 В дальнейшем трактор был усовершенствован и до сих пор используется на даче для
 пахоты.
