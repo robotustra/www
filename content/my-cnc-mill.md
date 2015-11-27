@@ -119,3 +119,8 @@ can't get CNC mill woth such characteristics.
 Тестовый запил со старым шпинделем.
 
 <embed src="http://www.youtube.com/v/ce8CyPSkG3I" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="640" height="480"></embed>
+
+
++ [Улучшайзинг станка](my-cnc-mill2)
+
+\- End of section -
