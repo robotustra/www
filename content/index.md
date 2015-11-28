@@ -27,6 +27,7 @@ And I wish you the same.
 --------------------------
 
 + [Мой робот (проект), My Robot (project)](my-robot) (2015)
++ [Мой робот (что уже сделано), My Robot (progress)](my-robot-done)
 + [Катушка Тесла, Tesla Coil](tesla-coil)
 
 Новье, Previous
