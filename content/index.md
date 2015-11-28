@@ -67,6 +67,7 @@ And I wish you the same.
 > These are links I like.
 
 + [Робот Loki, The Robot Loki and his creator's site](http://www.dshinsel.com/loki/)
++ [Моделирование походки двуногих существ, Biped giat simulation](http://www.goatstream.com/research/papers/SA2013/)
 
 - - -
 
