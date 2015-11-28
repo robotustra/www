@@ -68,9 +68,16 @@ sketch. All joint might have other shape or construction.
 > 6. Shoulders width - 36 cm.
 > 7. Binocular vision base is 90 mm.
 
+/*
 ![Предплечье](http://i.imgur.com/nR9ImuW.png)
+*/
+<img src="http://i.imgur.com/nR9ImuW.png" alt="Предплечье" width="600"/>
 
+/*
 ![Плечо](http://i.imgur.com/T1xMFvn.png)
+*/
+<img src="http://i.imgur.com/T1xMFvn.png" alt="Плечо" width="600"/>
+
 
 Планируется создание верхнего плечевого пояса аналогичное человеческому.
 Теретически кисть руки имеет порядка 30 степеней свободы, однако не все они будут независимыми.
@@ -78,8 +85,13 @@ sketch. All joint might have other shape or construction.
 >Robot's arms are planned to be similar to human's.
 Theoretically the palm of robot has about 30 DOF, but not all of them will be independent.
 
+/*
 ![Кисть](http://i.imgur.com/c201ilj.png)
 ![Кисть внешняя сторона](http://i.imgur.com/AkFaPqZ.png)
+*/
+<img src="http://i.imgur.com/c201ilj.png" alt="Кисть" width="600"/>
+<img src="http://i.imgur.com/AkFaPqZ.png" alt="Кисть внешняя сторона" width="600"/>
+
 
 Робот будет иметь возможность приседать на базу, выглядеть это будет как-то так:
 
@@ -93,7 +105,11 @@ Theoretically the palm of robot has about 30 DOF, but not all of them will be in
 >The base is made from usual wooden furinture pannels, of standard thickness.
 The wood is chipper than plastic and easier to process.
 
+/*
 ![База](http://i.imgur.com/Bd5Wybf.png)
+*/
+<img src="http://i.imgur.com/Bd5Wybf.png" alt="База" width="600"/>
+
 
 База состоит из 2 половинок, на каждой половине установлена одна ось.
 Две половинки соеденены продольной осью. Передняя ось может качаться относительно оси корпуса на небольшой
