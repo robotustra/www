@@ -1,5 +1,5 @@
 /*
-Title: Про ХВОЩ
+Title: Про ХВОЩ (Simply Hobby)
 */
 
 Просто ХВОЩЪ | Simply Hobby
