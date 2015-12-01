@@ -150,13 +150,13 @@ designed and printed myself.
 <img src="http://i.imgur.com/mqnAdpb.jpg" alt="Шкив на колесе" width="600"/>
 
 Моторчик с редуктором выдает максимум 150 rpm, закрепляется в таком вот кронштейне
->Motors with reductor give 15 rpm, mounted in the holder.
+>Motors with reductor give 150 rpm, mounted in the holder.
 
 <img src="http://i.imgur.com/iH1dG2F.jpg" alt="Кронштейн для мотора" width="600"/>
 
 Так как ось выходит не по центру, то это позволяет довольно легко регулировать натяжение
 зубчатого ремня, просто поворачивая мотор в кронштейне.
->Reductor exit shaft is offcentered and this permits to tighten the belt by turining
+>Reductor exit shaft is offcentered and this permits to tighten the belt by turning
 the motor in the mount.
 
 Все распечатано в нужном количестве
