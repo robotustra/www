@@ -62,7 +62,10 @@ Title: Тесла
 импульсов 500 Гц.
 Напряжение питания транзистора 24 вольта.
 
-<embed src="http://www.youtube.com/v/mwR_t2aTmpAc" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="640" height="480"></embed>
+[![Моя Катушка](http://img.youtube.com/vi/mwR_t2aTmpA/0.jpg)](https://www.youtube.com/watch?v=mwR_t2aTmpA)
+/*
+<embed src="http://www.youtube.com/v/mwR_t2aTmpA" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="640" height="480"></embed>
+*/
 
 На теслу я подавал всего лишь 24 Ватта при скважности импульсов в пачке 50%, потом увеличил до 30 Ватт, скважностью до 75%.
 
