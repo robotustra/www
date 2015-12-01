@@ -69,7 +69,8 @@ And I wish you the same.
 + [Робот Loki, The Robot Loki and his creator's site](http://www.dshinsel.com/loki/)
 + [Моделирование походки двуногих существ, Biped giat simulation](http://www.goatstream.com/research/papers/SA2013/)
 + [Канал доктора Guero, или робот с очень хорошей координацией, Dr.Guero walking biped robot](https://www.youtube.com/user/DrGuero2001/videos)
-
++ [Как надо строить ЧПУ станки, How to build CNC router(ru) ](http://forum.rcdesign.ru/f111/thread384652.html)
++ [Сайт любителя высокого напряжения(russian)](http://acdc.foxylab.com/)
 
 - - -
 
