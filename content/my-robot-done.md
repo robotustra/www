@@ -221,8 +221,23 @@ of robot. I spent about 3 weeks to get this:
 >After I made sure everything works fine - I put aside the hand and came back to 
 the base.
 - - -
-Продолжение следует...
->To be continued...
+
+За последние несолько недель практически закончил телегу.
+>For the latest couple of weeks the based wheel mechanics is almost finished
+
+<img src="http://mitm.mooo.com/~onick/robot/base1.jpg" alt="База" width="600"/>
+<img src="http://mitm.mooo.com/~onick/robot/base2.jpg" alt="База2" width="600"/>
+
+Для тестов нашел старые батареи от упса, емкость у них уже никакая, но для отладки электроники
+вполне пригодны.
+
+>Used batteries from UPS, small capacity, but good enough for tests
+
+<img src="http://mitm.mooo.com/~onick/robot/batteries.jpg" alt="Аккумуляторы" width="600"/>
+
+
+
+
 
 
 \- End of article -
