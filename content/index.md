@@ -72,7 +72,6 @@ And I wish you the same.
 + [Как надо строить ЧПУ станки, How to build CNC router(ru) ](http://forum.rcdesign.ru/f111/thread384652.html)
 + [Сайт любителя высокого напряжения(russian)](http://acdc.foxylab.com/)
 + [Восстановление аккумуляторов](http://gzip.ru/home/vosstanovlenie_gelevyh_kislotno_svincovyh_akkumuljatorov_ups.htm)
-
 + [Inmoov robot](http://inmoov.fr/)
 + [Порошковый 3D принтер, Powder 3D printer](http://pwdr.github.io/)
 + [Робот из термопластика, University of Zurich robot](http://www.expo21xx.com/automation21xx/17887_st3_university/default.htm)
