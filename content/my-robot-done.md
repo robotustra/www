@@ -235,10 +235,13 @@ the base.
 
 <img src="http://mitm.mooo.com/~onick/robot/batteries.jpg" alt="Аккумуляторы" width="600"/>
 
+[2015.12.16]
 
+Спаял контроллер для управления моторами, проверил как работает от компьютера.
 
+>Test of controller to drive wheels.
 
-
+<embed src="http://www.youtube.com/v/cTr5zi_TA94" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="640" height="480"></embed>
 
 \- End of article -
 
