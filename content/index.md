@@ -76,7 +76,7 @@ And I wish you the same.
 + [Порошковый 3D принтер, Powder 3D printer](http://pwdr.github.io/)
 + [Робот из термопластика, University of Zurich robot](http://www.expo21xx.com/automation21xx/17887_st3_university/default.htm)
 + [Среда моделирования роботов](http://gazebosim.org/)
-
++ [Робот ящерица, Roz robot by Jon Hylands](http://blog.huv.com/)
 - - -
 
 /*
