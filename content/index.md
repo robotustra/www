@@ -77,6 +77,8 @@ And I wish you the same.
 + [Робот из термопластика, University of Zurich robot](http://www.expo21xx.com/automation21xx/17887_st3_university/default.htm)
 + [Среда моделирования роботов](http://gazebosim.org/)
 + [Робот ящерица, Roz robot by Jon Hylands](http://blog.huv.com/)
++ [Про Эдисон](http://habrahabr.ru/company/intel/blog/260471/)
++ [MRAA библиотека](http://geektimes.ru/company/intel/blog/260998/)
 - - -
 
 /*
