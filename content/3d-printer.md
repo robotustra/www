@@ -34,6 +34,9 @@ Title: 3D принтер
 
 ![MyCoreXY](http://ic.pics.livejournal.com/maholet/24765393/26846/26846_600.png)
 
+Вот одна из возможных конструкций с осью Z
+<img src="http://i.imgur.com/ybx5KQY.png" alt="Ось Z" width="600"/>
+
 - - -
 
 
