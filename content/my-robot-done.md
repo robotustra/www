@@ -243,5 +243,21 @@ the base.
 
 <embed src="http://www.youtube.com/v/cTr5zi_TA94" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="640" height="480"></embed>
 
+[2015.12.25]
+
+На базе будет стоять 9 DOF сенсор BMX-055. Это акселерометр, гироскоп и магнетометр.
+
+Предварительная сборка показала, что он работает отлично, считывается с 
+частотой 20 и даже 50 герц. В примере кода который я нашел на просторах
+интернета - делается калибровка магнетометра. Я скорее всего не буду использовать
+магнетометр в конечном варианте, или придется как-то подправить кватернинон.
+
+> There will be 9DOF sensor BMX-055 on the wheeled base. This sensor works very good with arduino example I had found in the internet.
+Most probably I'll use gyro and accelerometer only from this sensor.
+
+
+<embed src="http://www.youtube.com/v/c1Qg5IViT3c" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="640" height="480"></embed>
+
+
 \- End of article -
 
