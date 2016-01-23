@@ -258,6 +258,22 @@ Most probably I'll use gyro and accelerometer only from this sensor.
 
 <embed src="http://www.youtube.com/v/c1Qg5IViT3c" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="640" height="480"></embed>
 
+[2016.01.22]
+
+Выпилил платку для гироскопа, перепаял его, упростил схему. Питается 9 DOF сенсор от USB порта,
+3.3 вольта я получаю просто через 2 диода. И сглаживаю пульсации конденсатором.
+
+Надо заметить, что когда я использовал 2 DC-DC конвертора, на 5.0 и 3.3 вольта, то из-за
+ пульсаций I2C шина работала со сбоями и сенсор подвисал через случайные интервалы времени. 
+А с диодами работает как часы. Ни единого сбоя за двое суток.
+
+<img src="http://i.imgur.com/hqFsh3L.jpg" alt="Gyro_top" width="600"/>
+<img src="http://i.imgur.com/4HIFfGw.jpg" alt="Gyro_bot" width="600"/>
+
+Конечно, еше придется повозится с кодом и калибровками, но в целом, девайс получился рабочий.
+Следующий шаг - установить это счастье на платформу.
+
+
 
 \- End of article -
 
