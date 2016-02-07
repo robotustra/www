@@ -11,9 +11,9 @@ Title: Мой робот, что сделано, часть 2 (My Robot progress
 
 Основные причины по которым я это сделал:
 
-1) Отсутсвие китов для строительства полноразмерных роботов (не игрушек).
-2) Стоимость готовых роботов, способных хоть что-то сделать в доме - от $10k и выше.
-3) Даже если бы была возможность купить такого робота, то огромным минусом была бы
+1. Отсутсвие китов для строительства полноразмерных роботов (не игрушек).
+2. Стоимость готовых роботов, способных хоть что-то сделать в доме - от $10k и выше.
+3. Даже если бы была возможность купить такого робота, то огромным минусом была бы
 невозможность его программировать так как я хочу. 
 
 
@@ -22,9 +22,9 @@ Title: Мой робот, что сделано, часть 2 (My Robot progress
 >
 > The main reasons why I started it are:
 >
-> 1) There is no DIY kit for adult sized humanoid robots (not toys).
-> 2) The cost of existing robot, which could do something as household robot, is starting from $10k+
-> 3) Even if I can buy adult size robot - I'm not sure that I'll be able to program it myself.
+> 1. There is no DIY kit for adult sized humanoid robots (not toys).
+> 2. The cost of existing robot, which could do something as household robot, is starting from $10k+
+> 3. Even if I can buy adult size robot - I'm not sure that I'll be able to program it myself.
 
 
 [2016.01.25]
