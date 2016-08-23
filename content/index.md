@@ -83,6 +83,7 @@ And I wish you the same.
 + [Про Эдисон](http://habrahabr.ru/company/intel/blog/260471/)
 + [MRAA библиотека](http://geektimes.ru/company/intel/blog/260998/)
 + [Cosmic ray detection](http://hardhack.org.au/book/export/html/12)
++ [Самодельные языки программирования](http://exmortis.narod.ru/src_compilers.html)
 - - -
 
 /*
@@ -90,5 +91,5 @@ And I wish you the same.
 */
 
 <div class="footer">
-        &copy; 2015 Robotustra
+        &copy; 2015-2016 Robotustra
 </div>
