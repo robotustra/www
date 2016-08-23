@@ -82,6 +82,7 @@ And I wish you the same.
 + [Робот ящерица, Roz robot by Jon Hylands](http://blog.huv.com/)
 + [Про Эдисон](http://habrahabr.ru/company/intel/blog/260471/)
 + [MRAA библиотека](http://geektimes.ru/company/intel/blog/260998/)
++ [Cosmic ray detection](http://hardhack.org.au/book/export/html/12)
 - - -
 
 /*
