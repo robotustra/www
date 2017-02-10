@@ -22,8 +22,13 @@ And I wish you the same.
 
 >This micro site is dedicated to my hobbies, and to ways of doing hobbies and others...
 
-Самое новье (2016), Recent
---------------------------
+2017
+----
++ [Robot](my-robot-done3)
+
+
+2016, Recent
+------------
 + [Мой робот (что уже сделано, продолжение), My Robot (progress, continuation)](my-robot-done2)
 
 Предыдущий год (2015), Previous year
