@@ -24,6 +24,7 @@ And I wish you the same.
 
 2017
 ----
++ [CNC Lathe](my-cnc-lathe)
 + [Robot](my-robot-done3)
 
 
