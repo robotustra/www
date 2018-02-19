@@ -22,6 +22,10 @@ And I wish you the same.
 
 >This micro site is dedicated to my hobbies, and to ways of doing hobbies and others...
 
+2018
+----
++ [ELYAGOODS](elyagoods)
+
 2017
 ----
 + [CNC Lathe](my-cnc-lathe)
