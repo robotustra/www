@@ -13,6 +13,7 @@ Title: Магазин изделий из кожи ELYAGOODS
 свою жену :)
 
 Вот что получилось:
+
 <img src="https://img.etsystatic.com/il/9d2550/1478666071/il_570xN.1478666071_qd2x.jpg" alt="beltbag1" width="600"/>
 
 <img src="https://https://img.etsystatic.com/il/79b6b0/1431406058/il_570xN.1431406058_5pgc.jpg" alt="beltbag2" width="600"/>
