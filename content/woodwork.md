@@ -3,24 +3,17 @@ Title: Woodworking, metalworking
 */
 
 
-п⌡я▌п╢п╦ п©п╦п╩я▐я┌ п╢п╣я─п╣п╡п╬ п╦ п╪п╣я┌п╟п╩п╩
+Люди пилят дерево и металл
 =========================
 
-![п■п╣п╡я┐я┬п╨п╟ п╢п╣п╩п╟п╣я┌ я─п╟п╥п╫я▀п╣ п╢п╣я─п╣п╡я▐п╫п╫я▀п╣ п╦п╥п╢п╣п╩п╦я▐ п╡ я│я┌п╬п╩я▐я─п╫п╬п╧ п╪п╟я│я┌п╣я─я│п╨п╬п╧ я│п╡п╬п╣пЁп╬ п╬я┌я├п╟](https://www.youtube.com/channel/UCuds-PJp_5QELapT_2xfgzw)
-
-![п╖п╦я│я┌п╬ я│я┌п╬п╩я▐я─п╨п╟ п╫п╟ п╠п╟п╩п╨п╬п╫п╣ п╪п╫п╬пЁп╬я█я┌п╟п╤п╨п╦ п╡ п°п╦п╫я│п╨п╣](https://www.youtube.com/channel/UCpRd7l14U_MnFHwmlrCTIsQ)
-
-![п║я┌я─п╬п╧я┘п╟п╨](https://www.youtube.com/channel/UCwUpm_nu8RpDFtc72w6oy-Q)
-
-![Steelwood, п÷п╟я─п╣п╫я▄ п╦п╥ п°п╬пЁп╦п╩п╣п╡п╟, я│п╬п╥п╢п╟я▌я┴п╦п╧ я─п╟п╥п╫я▀п╣ п╫п╦я┬я┌я▐п╨п╦ п╡ я│я┌п╦п╩п╣ я│я┌п╦п╪п©п╟п╫п╨.](https://www.youtube.com/channel/UCTpxthLF5mGs1FlefDjyBqw)
-
-![HomeMade in Lviv. п▒п╩п╦п╤п╣ п╨ я│я┌п╬п╩я▐я─п╨п╣. п п╟п╫п╟п╩ п╩я▄п╡п╬п╡я│п╨п╬п╧ п╪п╟я│я┌п╣я─я│п╨п╬п╧](https://www.youtube.com/channel/UC4jLoXeW0KovdJKA5itFDSA)
-
-![п⌡п╣п╡я┬п╟. п≤п╥пЁп╬я┌п╬п╡п╩п╣п╫п╦п╣ я─п╟п╥п╩п╦я┤п╫п╬пЁп╬ я─п╬п╢п╟ п╪п╦п╫п╦п╟я┌я▌я─.](https://www.youtube.com/channel/UCQpBYQ0FkiKQju94WX1yveQ)
-
-![п≤п╫п╤п╣п╫п╣я─ п▒я─я┐п╫я│.](https://www.youtube.com/channel/UCRMxcpgVb1Lo4r5tiRQkjkA)
-
-![п■я▐п╢я▄п╨п╟ п°п╟п╨я│п╦п╪. п╖п╦я│я┌п╬ я┌п╬п╨п╟я─п╨п╟ п©п╬ п╤п╣п╩п╣п╥я┐.](https://www.youtube.com/channel/UCn-1GFkSExeLeDnY-PuAeGw)
++ [Девушка делает разные деревянные изделия в столярной мастерской своего отца](https://www.youtube.com/channel/UCuds-PJp_5QELapT_2xfgzw)
++ [Чисто столярка на балконе многоэтажки в Минске](https://www.youtube.com/channel/UCpRd7l14U_MnFHwmlrCTIsQ)
++ [Стройхак](https://www.youtube.com/channel/UCwUpm_nu8RpDFtc72w6oy-Q)
++ [Steelwood, Парень из Могилева, создающий разные ништяки в стиле стимпанк.](https://www.youtube.com/channel/UCTpxthLF5mGs1FlefDjyBqw)
++ [HomeMade in Lviv. Ближе к столярке. Канал львовской мастерской](https://www.youtube.com/channel/UC4jLoXeW0KovdJKA5itFDSA)
++ [Левша. Изготовление различного рода миниатюр.](https://www.youtube.com/channel/UCQpBYQ0FkiKQju94WX1yveQ)
++ [Инженер Брунс.](https://www.youtube.com/channel/UCRMxcpgVb1Lo4r5tiRQkjkA)
++ [Дядька Максим. Чисто токарка по железу.](https://www.youtube.com/channel/UCn-1GFkSExeLeDnY-PuAeGw)
 
 
 
