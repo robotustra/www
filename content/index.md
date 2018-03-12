@@ -95,6 +95,7 @@ And I wish you the same.
 + [MRAA библиотека](http://geektimes.ru/company/intel/blog/260998/)
 + [Cosmic ray detection](http://hardhack.org.au/book/export/html/12)
 + [Самодельные языки программирования](http://exmortis.narod.ru/src_compilers.html)
++ [Woodworking and metalworking, работа других людей с деревом и металлом](woodwork)
 - - -
 
 /*
@@ -102,5 +103,5 @@ And I wish you the same.
 */
 
 <div class="footer">
-        &copy; 2015-2016 Robotustra
+        &copy; 2015-2018 Robotustra
 </div>
