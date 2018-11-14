@@ -24,6 +24,7 @@ And I wish you the same.
 
 2018
 ----
++ [CNC Lathe (Часть 2)](my-cnc-lathe2)
 + [ELYAGOODS](elyagoods)
 
 2017
@@ -33,34 +34,34 @@ And I wish you the same.
 + [Robot](my-robot-done3)
 
 
-2016, Recent
-------------
+2016
+-----
 + [Мой робот (что уже сделано, продолжение), My Robot (progress, continuation)](my-robot-done2)
 
-Предыдущий год (2015), Previous year
---------------------------
+2015
+-------
 
 + [Мой робот (проект), My Robot (project)](my-robot) (2015)
 + [Мой робот (что уже сделано), My Robot (progress)](my-robot-done)
 + [Катушка Тесла, Tesla Coil](tesla-coil)
 
-Новье, Previous
----------------
+2014
+-----
 
 + [Мой 3D принтер, Rostock Max v2, 3D printer](3d-printer) (2014)
 + [Звукоизолированный ящик для станка, Sound proof box](sound-box)
 + [Самодельный ЧПУ станок, My CNC mill](my-cnc-mill) (2013)
 
-Уже не новье, Older stuff
--------------------------
+2000-2010
+----------
 
 + [Махолеты в Канаде, Ornithopters in Canada](maholet3)
 + [Махолеты в Беларуси, два, Ornithopter 2](maholet2)
 + [Махолеты в Беларуси, раз, Ornithopter 1](maholet1)
 + [Скрипки, Violins](violins)
 
-Старье, Prevous life
---------------------
+19XX-2000
+----------
 
 + [Трактор, Tractor](traktor)
 + [Мотоблок, Small tractor](motoblok)
