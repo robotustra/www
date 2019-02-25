@@ -24,47 +24,47 @@ And I wish you the same.
 
 2018
 ----
-+ [CNC Lathe (Часть 2)](my-cnc-lathe2)
-+ [ELYAGOODS](elyagoods)
++ [CNC Lathe (Часть 2)](?my-cnc-lathe2)
++ [ELYAGOODS](?elyagoods)
 
 2017
 ----
-+ [CNC Lathe](my-cnc-lathe)
-+ [Backpack](my-backpack)
-+ [Robot](my-robot-done3)
++ [CNC Lathe](?my-cnc-lathe)
++ [Backpack](?my-backpack)
++ [Robot](?my-robot-done3)
 
 
 2016
 -----
-+ [Мой робот (что уже сделано, продолжение), My Robot (progress, continuation)](my-robot-done2)
++ [Мой робот (что уже сделано, продолжение), My Robot (progress, continuation)](?my-robot-done2)
 
 2015
 -------
 
-+ [Мой робот (проект), My Robot (project)](my-robot) (2015)
-+ [Мой робот (что уже сделано), My Robot (progress)](my-robot-done)
-+ [Катушка Тесла, Tesla Coil](tesla-coil)
++ [Мой робот (проект), My Robot (project)](?my-robot) (2015)
++ [Мой робот (что уже сделано), My Robot (progress)](?my-robot-done)
++ [Катушка Тесла, Tesla Coil](?tesla-coil)
 
 2014
 -----
 
-+ [Мой 3D принтер, Rostock Max v2, 3D printer](3d-printer) (2014)
-+ [Звукоизолированный ящик для станка, Sound proof box](sound-box)
-+ [Самодельный ЧПУ станок, My CNC mill](my-cnc-mill) (2013)
++ [Мой 3D принтер, Rostock Max v2, 3D printer](?3d-printer) (2014)
++ [Звукоизолированный ящик для станка, Sound proof box](?sound-box)
++ [Самодельный ЧПУ станок, My CNC mill](?my-cnc-mill) (2013)
 
 2000-2010
 ----------
 
-+ [Махолеты в Канаде, Ornithopters in Canada](maholet3)
-+ [Махолеты в Беларуси, два, Ornithopter 2](maholet2)
-+ [Махолеты в Беларуси, раз, Ornithopter 1](maholet1)
-+ [Скрипки, Violins](violins)
++ [Махолеты в Канаде, Ornithopters in Canada](?maholet3)
++ [Махолеты в Беларуси, два, Ornithopter 2](?maholet2)
++ [Махолеты в Беларуси, раз, Ornithopter 1](?maholet1)
++ [Скрипки, Violins](?violins)
 
 19XX-2000
 ----------
 
-+ [Трактор, Tractor](traktor)
-+ [Мотоблок, Small tractor](motoblok)
++ [Трактор, Tractor](?traktor)
++ [Мотоблок, Small tractor](?motoblok)
 
 
 Рандомный стафф, My random stuff
@@ -98,10 +98,6 @@ And I wish you the same.
 + [Самодельные языки программирования](http://exmortis.narod.ru/src_compilers.html)
 + [Woodworking and metalworking, работа других людей с деревом и металлом](woodwork)
 - - -
-
-/*
-![Alt text](../p1.jpg "Test image")
-*/
 
 <div class="footer">
         &copy; 2015-2018 Robotustra
