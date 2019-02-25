@@ -16,24 +16,11 @@ Title: ЧПУ Токарный станок 2
 задолго до того, как нарисовал в каде поскольку мне нужно было определится с размерами железяк для покупки.
 
 
-/*
-![CADModel1](https://i.imgur.com/XDbikNu.png =600x)
- */
-<img src="https://i.imgur.com/XDbikNu.png" alt="CadModel1" height="600"/>
+<img src="https://i.imgur.com/XDbikNu.png" alt="CadModel1" height="400"/>
 
-https://i.imgur.com/9o1FHsR.png
+<img src="https://i.imgur.com/9o1FHsR.png" alt="CadModel2" height="400"/>
 
-/*
-![CADModel2](https://i.imgur.com/9o1FHsR.png =600x)
- */
-<img src="https://i.imgur.com/9o1FHsR.png" alt="CadModel2" height="600"/>
-
-https://i.imgur.com/73STFfW.png
-
-/*
-![CADModel3](https://i.imgur.com/73STFfW.png =600x)
- */
-<img src="https://i.imgur.com/73STFfW.png" alt="CadModel3" height="600"/>
+<img src="https://i.imgur.com/73STFfW.png" alt="CadModel3" height="400"/>
 
 Так как шпиндель у меня китайский и можеи развивать максимум 24000 оборотов в минуту, то 
 я сразу закладываю понижение в 8 раз с помощью зубчатых ремней.
@@ -47,38 +34,30 @@ T-slotted столик и попытался его установить на р
 
 Шабрение сделало свое дело и стол оказался в принципе довольно плоским.
 
-/*
-![Table](https://i.imgur.com/B3GyCH0.jpg =600x)
-*/
 <img src="https://i.imgur.com/B3GyCH0.jpg" alt="Table" width="600"/>
 
-/*
-![Table](https://i.imgur.com/B6iN6vL.jpg =600x)
-*/
 <img src="https://i.imgur.com/B6iN6vL.jpg" alt="Table" width="600"/>
 
 Вот так это хозяйство закрепилось на роутере.
 
 Кроме всего прочего таки сделал нормальное внешнее водяное охлаждение на нем, которое собирался сделать уже несколько лет.
-/*
-![Table](https://i.imgur.com/DPEiaJY.jpg =600x)
-*/
+
 <img src="https://i.imgur.com/DPEiaJY.jpg" alt="Table" width="600"/>
 
 ---
 
 Продолжаем, однако, с токарным станком.
-https://i.imgur.com/v5NZXSE.jpg
+
+<img src="https://i.imgur.com/v5NZXSE.jpg" alt="Table" width="600"/>
+
 
 Вот скрутил из труб прямоугольного сечения такую станинку. Полностью трубы шабрить поленился, но они оказались достаточно
 ровными, в отличие от пластин.
 
-/*
-![Frame1](https://i.imgur.com/v5NZXSE.jpg =600x)
-*/
 <img src="https://i.imgur.com/v5NZXSE.jpg" alt="Frame1" width="600"/>
 
 Далее прикрутил рельсы оси Z. У токарного станка, как и у фрезерного ось шпинделя совпадает с осью Z!
+
 <img src="https://i.imgur.com/6oVcR2R.jpg" alt="Frame2" width="600"/>
 
 Потом прикрутил большую трубу на которой будет собираться передняя бабка. Винт на картинке пока лежит просто так для виду.
