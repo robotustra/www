@@ -21,6 +21,9 @@ And I wish you the same.
 Этот микросайтец посвящен моему хвощу, методам хвощения и вообще...
 
 >This micro site is dedicated to my hobbies, and to ways of doing hobbies and others...
+2019
+----
++ [New violin (Новая скрипка (15-я), лакировка)](violin2)
 
 2018
 ----
