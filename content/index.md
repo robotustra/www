@@ -24,6 +24,7 @@ And I wish you the same.
 
 2019
 ----
++ [Not my robots (Размышления о будущем роботов)](not-my-robot)
 + [New violin (Новая скрипка (15-я), лакировка)](violins2)
 
 2018
