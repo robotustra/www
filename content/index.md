@@ -22,6 +22,8 @@ And I wish you the same.
 
 >This micro site is dedicated to my hobbies, and to ways of doing hobbies and others...
 
++[中国，停下来](china-go-off)
+
 2019
 ----
 + [Not my robots (Размышления о будущем роботов)](not-my-robot)
