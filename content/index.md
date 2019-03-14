@@ -24,10 +24,6 @@ And I wish you the same.
 
 ---
 
-+ [中国，停下来](china-go-off)
-
----
-
 2019
 ----
 + [Not my robots (Размышления о будущем роботов)](not-my-robot)
