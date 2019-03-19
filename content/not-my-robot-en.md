@@ -11,7 +11,7 @@ There is not so much of interesting material over there, but sometimes something
 There is a lot of hype around the robots, saying that they will take away work places from people, or they will develop into 
 a complex robo-civilization, or they will become smarter than people and then destroy everyone on Earth.
 
-I strongly disagree with any of the such theories, including the assumptions of Elon Mask, so I will try to predict how I 
+I strongly disagree with any of the such theories, including the assumptions of Elon Musk, so I will try to predict how I 
 think everything will be in reality IMHO.
 
 Let's start from afar, or rather from the first mechanisms that could be called robots, namely, CNC machines. 
