@@ -24,6 +24,11 @@ And I wish you the same.
 
 ---
 
++ [他妈的你们中国黑客](china-go-off)
+
+---
+
+
 2019
 ----
 + [Not my robots English (Thoughts about robots)](not-my-robot-en)
