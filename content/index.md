@@ -22,9 +22,6 @@ And I wish you the same.
 
 >This micro site is dedicated to my hobbies, and to ways of doing hobbies and others...
 
----
-
-+ [他妈的你们中国黑客](china-go-off)
 
 ---
 
@@ -34,6 +31,7 @@ And I wish you the same.
 + [Not my robots English (Thoughts about robots)](not-my-robot-en)
 + [Not my robots (Размышления о будущем роботов)](not-my-robot)
 + [New violin (Новая скрипка (15-я), лакировка)](violins2)
++ [Fairy Tail](fairytail)
 
 2018
 ----
