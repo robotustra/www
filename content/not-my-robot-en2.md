@@ -7,7 +7,7 @@ Title: Не мои роботы2 (Not My Robots2)
 
 Ходил я как то по интернету, а именно сегодня, 3 ноября 2019 года и наткнулся на это видео
 
-<embed src="https://www.youtube.com/watch?v=6IGCIjp2bn4" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="640" height="480"></embed>
+<embed src="http://www.youtube.com/watch?v=6IGCIjp2bn4" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="640" height="480"></embed>
 
 
 И что вы на это скажете? По моему очень смахивает на мой дизайн который я придумал в 2015 году.
