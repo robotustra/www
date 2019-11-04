@@ -28,6 +28,7 @@ And I wish you the same.
 
 2019
 ----
++ [Not my robots 2 (Stolen idea)](not-my-robot-en2)
 + [Not my robots English (Thoughts about robots)](not-my-robot-en)
 + [Not my robots (Размышления о будущем роботов)](not-my-robot)
 + [New violin (Новая скрипка (15-я), лакировка)](violins2)
