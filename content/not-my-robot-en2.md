@@ -9,7 +9,7 @@ Title: Не мои роботы2 (Not My Robots2)
 
 ![Робот, скетч](http://i.imgur.com/xZEKXIT.png)
 
-![Японский робот](http://www.youtube.com/watch?v=6IGCIjp2bn4)
+<embed src="http://www.youtube.com/v/6IGCIjp2bn4" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="640" height="480"></embed>
 
 
 И что вы на это скажете? По моему очень смахивает на мой дизайн который я придумал в 2015 году.
@@ -24,10 +24,6 @@ Title: Не мои роботы2 (Not My Robots2)
 ##How Asians steal ideas
 
 I was digging around in youtube, tobay the 3rd of November, 2019 and got this video.
-
-![My robot, sketch](http://i.imgur.com/xZEKXIT.png)
-
-![Toyota robot](http://www.youtube.com/watch?v=6IGCIjp2bn4)
 
 What whould you say about it? As for me it reminds me strongly my own design which I
 introduced on my site in 2015 and showed off on indiegogo.com in 2017.
