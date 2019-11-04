@@ -9,7 +9,7 @@ Title: Не мои роботы2 (Not My Robots2)
 
 ![Робот, скетч](http://i.imgur.com/xZEKXIT.png)
 
-![Японский робот](https://www.youtube.com/watch?v=6IGCIjp2bn4)
+![Японский робот](http://www.youtube.com/watch?v=6IGCIjp2bn4)
 
 
 И что вы на это скажете? По моему очень смахивает на мой дизайн который я придумал в 2015 году.
@@ -27,7 +27,7 @@ I was digging around in youtube, tobay the 3rd of November, 2019 and got this vi
 
 ![My robot, sketch](http://i.imgur.com/xZEKXIT.png)
 
-![Toyota robot](https://www.youtube.com/watch?v=6IGCIjp2bn4)
+![Toyota robot](http://www.youtube.com/watch?v=6IGCIjp2bn4)
 
 What whould you say about it? As for me it reminds me strongly my own design which I
 introduced on my site in 2015 and showed off on indiegogo.com in 2017.
