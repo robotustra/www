@@ -27,6 +27,7 @@ And I wish you the same.
 2020
 ----
 + [CNC Lathe (Часть 3)](my-cnc-lathe3)
++ [Скрипка №16, в процессе. Violin #16, in progress](violins3)
 
 2019
 ----
@@ -105,12 +106,12 @@ And I wish you the same.
 + [Порошковый 3D принтер, Powder 3D printer](http://pwdr.github.io/)
 + [Робот из термопластика, University of Zurich robot](http://www.expo21xx.com/automation21xx/17887_st3_university/default.htm)
 + [Среда моделирования роботов](http://gazebosim.org/)
-+ [Робот ящерица, Roz robot by Jon Hylands](http://blog.huv.com/)
 + [Про Эдисон](http://habrahabr.ru/company/intel/blog/260471/)
 + [MRAA библиотека](http://geektimes.ru/company/intel/blog/260998/)
 + [Cosmic ray detection](http://hardhack.org.au/book/export/html/12)
 + [Самодельные языки программирования](http://exmortis.narod.ru/src_compilers.html)
 + [Woodworking and metalworking, работа других людей с деревом и металлом](woodwork)
++ [Самодельные ОС. Own OS development](https://wiki.osdev.org/Main_Page)
 
 
 ---
