@@ -61,7 +61,7 @@ Title: Скрипки
 очень трудно сфотографировать блестящую поверхность без бликов...
 
 <img src="https://i.imgur.com/jb5Pym0.jpg" alt="Spring" height="600"/>
-<img src="https://i.imgur.com/8Biy5lG.jpg" alt="Spring" height="600"/>
+<img src="https://i.imgur.com/8Biy5lG.jpg" alt="Spring" height="400"/>
 <img src="https://i.imgur.com/u2gAMwQ.jpg" alt="Spring" height="600"/>
 
 ---
