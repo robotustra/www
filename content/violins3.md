@@ -50,9 +50,9 @@ Title: Скрипки
 <img src="https://i.imgur.com/kJatWwX.jpg" alt="Spring" height="600"/>
 
 И врезаем усики.
-<img src="https://i.imgur.com/jW28hqo.jpg" alt="Spring" height="600"/>
-<img src="https://i.imgur.com/cmCj7TQ.jpg" alt="Spring" height="600"/>
-<img src="https://i.imgur.com/MeBQAgy.jpg" alt="Spring" height="600"/>
+<img src="https://i.imgur.com/jW28hqo.jpg" alt="Spring" width="600"/>
+<img src="https://i.imgur.com/cmCj7TQ.jpg" alt="Spring" width="600"/>
+<img src="https://i.imgur.com/MeBQAgy.jpg" alt="Spring" width="600"/>
 
 Сейчас скрипка находится в стадии вырезания головки, выработки грифа, готовый корпус пока лежит в сторонке и отдыхает.
 
