@@ -24,7 +24,9 @@ And I wish you the same.
 
 
 ---
-
+2020
+----
++ [CNC Lathe (Часть 3)](my-cnc-lathe3)
 
 2019
 ----
