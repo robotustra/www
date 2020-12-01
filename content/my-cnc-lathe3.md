@@ -72,19 +72,5 @@ Title: ЧПУ Токарный станок 3
 
 ---
 
-Ради прикола прикрутил кнопку PayPal.
-
-Как там люди в метро говорят: "Сами мы не местные, едем домой, отслали от поезда, подАйте кто сколько может..." :)))
-
-А если серьезно, то если вам интересно следить за моими поделками или вы хотите узнать побольше о моих проектах,
-хотите получить чертежи или схемы - любой каприз за ваши деньги... :)
-
-<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-<input type="hidden" name="cmd" value="_donations" />
-<input type="hidden" name="business" value="n.yakutovich@gmail.com" />
-<input type="hidden" name="currency_code" value="CAD" />
-<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
-<img alt="" border="0" src="https://www.paypal.com/en_CA/i/scr/pixel.gif" width="1" height="1" />
-</form>
 
 \- End of section -

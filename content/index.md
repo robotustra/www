@@ -115,17 +115,11 @@ And I wish you the same.
 
 
 ---
+Если у вас есть вопросы по поводу моих поделок, или нужен какой-то совет, обращайтесь, буду рад помочь.
 
-Если вам интересно следить за моими поделками или вы хотите узнать что-то больше информации о моих проектах,
-хотите получить чертежи или схемы - любой каприз за ваши деньги... :)
+>If you have any questions about my hobbies or you need some advice, feel free to contact me, I will be happy to help you.
 
-<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-<input type="hidden" name="cmd" value="_donations" />
-<input type="hidden" name="business" value="n.yakutovich@gmail.com" />
-<input type="hidden" name="currency_code" value="CAD" />
-<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
-<img alt="" border="0" src="https://www.paypal.com/en_CA/i/scr/pixel.gif" width="1" height="1" />
-</form>
+iamrobotustra at gmail
 
 <div class="footer">
         &copy; 2015-2020 Robotustra
