@@ -7,7 +7,7 @@ Title: Махолет 1
 
 Первая версия махолета, попытка скопировать орла.
 
-![Картинка](?pics/maholet/m1.jpg)
+![Картинка](%base_url%/m1.jpg)
 ![Картинка](?pics/maholet/m2.jpg)
 ![Картинка](?pics/maholet/m3.jpg)
 ![Картинка](?pics/maholet/m4.jpg)
