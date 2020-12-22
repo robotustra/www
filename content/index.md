@@ -16,7 +16,7 @@ Some of people shows it to everyone, but it's also not clear for what reason, an
 2021
 ----
 I'm starting to translate my book from russian into English in violinmaking. You can help me to speed up the work with your donations.
-+ [Build a violin](?violinmaking)
++ [Build a violin](http://robotustra.ca/violinmaking)
 
 2020
 ----
