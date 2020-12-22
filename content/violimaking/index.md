@@ -2,7 +2,7 @@
 Title: Build a violin
 */
 
-This is my book about how to build violin
+This is my book about how to build a violin from scratch
 ==========================
  
 One of my favorite hobby is violinmaking and I decided to translate into English the book I've wrote and bublish
@@ -56,5 +56,5 @@ Build a violin
 </form>
 
 <div class="footer">
-        &copy; 2015-2020 Robotustra
+        &copy; 2015-2021 Robotustra
 </div>

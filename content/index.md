@@ -5,25 +5,19 @@ Title: Про ХВОЩ (Simply Hobby)
 Просто ХВОЩЪ | Simply Hobby
 ==========================
 
-У всех людей есть хвощ, просто некоторые этого стыдятся или тщательно скрывают. 
-Некоторые выставляют на всеобщее обозрение, правда не совсем понятно с какой целью, 
-но это и не важно.
-
 > Everyone has a hobby, but some people hide it from others thoroughly.
 Some of people shows it to everyone, but it's also not clear for what reason, and it doesn't really matter.	
 
-Я родился, и случилось так, что я занимаюсь хвощом давно, долго и с удовольствием, 
-чего и вам желаю.
 
->I was born, and it's happend that I have many hobbies for a long time and do them with pleasure.
-And I wish you the same.
-
-Этот микросайтец посвящен моему хвощу, методам хвощения и вообще...
-
->This micro site is dedicated to my hobbies, and to ways of doing hobbies and others...
+>This site is dedicated to my hobbies, and to ways of doing hobbies and others...
 
 
 ---
+2021
+----
+I'm starting to translate my book from russian into English in violinmaking. You can help me to speed up the work with your donations.
++ [Build a violin](?violinmaking)
+
 2020
 ----
 + [CNC Lathe (Часть 3)](my-cnc-lathe3)
@@ -122,5 +116,5 @@ And I wish you the same.
 iamrobotustra at gmail
 
 <div class="footer">
-        &copy; 2015-2020 Robotustra
+        &copy; 2015-2021 Robotustra
 </div>
