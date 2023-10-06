@@ -26,7 +26,7 @@ Text CAD
 <img src="https://i.imgur.com/8bXLIIb.png" alt="Complex_shapes" width="600"/>
 <img src="https://i.imgur.com/iio3KPG.png" alt="Easy_draw" width="600"/>
 
-> You can buy it of donate for future development of Text CAD/CAM.
+> You can buy it for $10 of you can donate for future development of Text CAD/CAM.
 
 > Current version is designed for Linux only.
 
